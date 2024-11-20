@@ -1,51 +1,64 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Educação Financeira para Adolescentes
 
-## 🚀 Introdução
+## 📒 E-book sobre Educação Financeira para Crianças e Adolescentes
 
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
+O objetivo do e-book é trazer, de form lúdica e divertida, conceitos básicos sobre finanças pessoas para crianças e adolescentes. Praticamente não há instituições de ensino infantil que traga a temática como uma matéria na grade curricular do aluno. O resultado esperado é contribuir com os pais a desenvolver e promover a educação financeiras em seus filhos.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
+Gemini
+Meta IA
+Canva
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pedi aos chats das IA que criasse um e-book sobre educação financeira para crianças e adolescentes, com um linguagem coloquial e divertida, levando em consideração os conceitos do livro A Psicologia Financeira e que o texto deveria trazer o conceito de reforço positivo, evitando palavras como educação, finanças e orçamento para não deixar o texto monótono.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Página 1: Dinheiro na Faixa: Um Guia Legal pra Turbinar os seus sonhos!
+
+E aí, galera! Você está pronto para fazer seus sonhos se tornarem realidade? Quer viajar pelo mundo, comprar um carro dos sonhos ou simplesmente ter liberdade financeira? É possível!
+
+Página 2: Você é capaz de alcançar seus objetivos!
+
+Você sabe que pode alcançar qualquer coisa que você se proponha a fazer. E agora, você está pronto para aprender como gerenciar seu dinheiro e alcançar seus objetivos financeiros!
+
+Página 3: O dinheiro é uma ferramenta para alcançar seus sonhos!
+
+O dinheiro não é o objetivo final, mas sim uma ferramenta para alcançar seus sonhos. E agora, você está pronto para aprender como usar essa ferramenta para alcançar seus objetivos! 
+
+Página 4: Crie um plano para alcançar seus sonhos!
+
+Criar um plano é como fazer um mapa para seus sonhos. Você precisa saber onde está seu dinheiro e como usá-lo para alcançar seus objetivos! 
+
+Página 5: Invista em seus sonhos!_ Investir em seus sonhos é como plantar uma semente para que ela cresça e dê frutos. Você precisa investir seu dinheiro para que ele cresça e te ajude a alcançar seus objetivos!
+
+Página 6: Proteja seu dinheiro!
+
+Proteger seu dinheiro é como proteger seus sonhos. Você precisa saber como evitar erros financeiros e proteger seu dinheiro para que você possa alcançar seus objetivos! 
+
+Página 7: Seja paciente e discipline-se!
+
+Ser paciente e discipline-se é como ter um superpoder para alcançar seus objetivos. Você precisa ser paciente e discipline-se para que você possa alcançar seus sonhos!
+
+Página 8: Crie um plano de ação!
+
+Criar um plano de ação é como fazer um mapa para seus sonhos. Você precisa saber onde está seu dinheiro e como usá-lo para alcançar seus objetivos!
+
+Página 9: Aprenda e melhore!
+
+Aprender e melhorar é como ter um superpoder para alcançar seus objetivos. Você precisa aprender e melhorar para que você possa alcançar seus sonhos! 
+
+Página 10: Conclusão
+
+E aí, galera! Você agora tem as ferramentas necessárias para começar a construir seu futuro financeiro. Lembre-se de que alcançar seus sonhos é possível! Você apenas precisa ser paciente, discipline-se e aprender a gerenciar seu dinheiro.
+
+Recursos adicionais:
+
+- Livros recomendados: "O Investidor Inteligente" de Benjamin Graham, "A Riqueza das Nações" de Adam Smith 
+- Sites recomendados: Investopedia, The Balance 
+- Cursos recomendados: Coursera, Udemy 
+
+Espero que você tenha gostado do e-book! Se tiver alguma dúvida ou precisar de mais ajuda, não hesite em perguntar.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Criar algo com IA é relativamente fácil. Mas criar algo que consiga resolver a dor das pessoas é complexo e exige muito conhecimento do usuário. É preciso muita pesquisa e reflexão sobre o que está sendo entregue como remédio. A Inteligência Artificial é importantíssima para reduzir o trabalho braçal e dar velocidade às entregas.
