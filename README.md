@@ -5,10 +5,7 @@
 O objetivo do e-book é trazer, de form lúdica e divertida, conceitos básicos sobre finanças pessoas para crianças e adolescentes. Praticamente não há instituições de ensino infantil que traga a temática como uma matéria na grade curricular do aluno. O resultado esperado é contribuir com os pais a desenvolver e promover a educação financeiras em seus filhos.
 
 ## 🤖 Tecnologias Utilizadas
-ChatGPT
-Gemini
-Meta IA
-Canva
+ChatGPT, Gemini e Meta IA;
 
 ## 🧐 Processo de Criação
 Pedi aos chats das IA que criasse um e-book sobre educação financeira para crianças e adolescentes, com um linguagem coloquial e divertida, levando em consideração os conceitos do livro A Psicologia Financeira e que o texto deveria trazer o conceito de reforço positivo, evitando palavras como educação, finanças e orçamento para não deixar o texto monótono.
